@@ -1,3 +1,3 @@
 # melonkidcodes.github.io
 hi
-<a>hi</a>
+<a href="melonkidcodes.github.io/Code/main.html">hi</a>
